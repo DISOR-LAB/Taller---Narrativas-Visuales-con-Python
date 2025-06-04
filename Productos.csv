@@ -1,0 +1,21 @@
+ID_Producto,Nombre,Categoría,Precio,Stock
+A001,Producto 1,Hogar,1048,96
+A002,Producto 2,Electrónica,858,13
+A003,Producto 3,Hogar,1429,89
+A004,Producto 4,Hogar,1601,15
+A005,Producto 5,Accesorios,78,83
+A006,Producto 6,Electrónica,949,26
+A007,Producto 7,Electrónica,1630,55
+A008,Producto 8,Muebles,1257,81
+A009,Producto 9,Muebles,722,71
+A010,Producto 10,Ropa,1384,30
+A011,Producto 11,Ropa,1690,23
+A012,Producto 12,Hogar,409,75
+A013,Producto 13,Electrónica,1461,84
+A014,Producto 14,Accesorios,970,55
+A015,Producto 15,Muebles,1582,49
+A016,Producto 16,Muebles,340,61
+A017,Producto 17,Hogar,716,23
+A018,Producto 18,Hogar,1340,66
+A019,Producto 19,Accesorios,1396,30
+A020,Producto 20,Accesorios,248,36
